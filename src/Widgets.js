@@ -23,7 +23,7 @@ function Widgets() {
     return (
         <div className='widgets'>
             <div className="widgets__header">
-                <h2>Linkden News</h2>
+                <h2>latest News</h2>
                 <InfoIcon />
             </div>
             {newsArticle("Wardha is Back","Top News---999 Readers")}
